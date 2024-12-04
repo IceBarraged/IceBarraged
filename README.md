@@ -1,16 +1,20 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://oldschool.runescape.wiki/w/Ice_Barrage#/media/File:Ice_Barrage.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://oldschool.runescape.wiki/w/Vengeance#/media/File:Vengeance.gif">
+ <img alt="An animation of an Armadyl Godsword." src="https://oldschool.runescape.wiki/w/File:The_Judgement.gif">
+</picture>
 
-<!--
-**IceBarraged/IceBarraged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ❄️About me❄️
 
-Here are some ideas to get you started:
+Hey, I'm IceBarraged ;) 🧊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>Currently working on...</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| C#        |
+|     2| Python    |
+|     3| SQL       |
+
+</details>
