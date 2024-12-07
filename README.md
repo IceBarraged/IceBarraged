@@ -10,6 +10,9 @@
  This is just a place for me to upload some of my personal projects. :)
  Check my pinned Repos for things I am especially proud of.
 </p>
+<p align="center">
+ <img width="100" src="https://komarev.com/ghpvc/?username=IceBarraged" alt="Profile View Counter">
+</p>
 
 Q&A
 
