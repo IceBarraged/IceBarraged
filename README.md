@@ -8,6 +8,7 @@
 
 <p align="center">
  This is just a place for me to upload some of my personal projects. :)
+ Check my pinned Repos for things I am especially proud of.
 </p>
 
 Q&A
