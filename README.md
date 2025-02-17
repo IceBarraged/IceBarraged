@@ -30,4 +30,4 @@ Q&A
  
  What professional skills do you have?
  
- > Software Automation, Database Administration and Project Management mainly. I'd like to be a .NET developer in the future.
+ > Software Automation, System Administration and Project Management mainly. I have a great interest in DevOps and Cloud Computing!
