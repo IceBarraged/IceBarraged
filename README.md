@@ -1,10 +1,11 @@
+
 <p align="center">
+ <img width="20%" src="https://github.com/user-attachments/assets/82720459-f487-457d-8e76-f6fe38cb1ec5" alt="Login Flame">
  🧊 $${\huge \color{blue}	Welcome \space to \space my \space profile.}$$ 🧊
+ <img width="20%" src="https://github.com/user-attachments/assets/82720459-f487-457d-8e76-f6fe38cb1ec5" alt="Login Flame">
 </p>
  
-<p align="center">
- <img width="400" src="https://github.com/user-attachments/assets/cd94760e-ecab-4a8e-a4ac-d7931b862da3" alt="Ice Barrage">
-</p>
+
 
 <p align="center">
  This is just a place for me to upload some of my personal projects. :)
@@ -31,3 +32,7 @@ Q&A
  What professional skills do you have?
  
  > Software Automation, System Administration and Project Management mainly. I have a great interest in DevOps and Cloud Computing!
+
+<p align="center">
+ <img width="400" src="https://github.com/user-attachments/assets/cd94760e-ecab-4a8e-a4ac-d7931b862da3" alt="Ice Barrage">
+</p>
