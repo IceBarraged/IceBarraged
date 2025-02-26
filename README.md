@@ -33,6 +33,7 @@ Q&A
  
  > Software Automation, System Administration and Project Management mainly. I have a great interest in DevOps and Cloud Computing!
 
-<p align="center">
- <img width="400" src="https://github.com/user-attachments/assets/cd94760e-ecab-4a8e-a4ac-d7931b862da3" alt="Ice Barrage">
-</p>
+ Where is your username from?
+
+ > <img width="20%" src="https://github.com/user-attachments/assets/cd94760e-ecab-4a8e-a4ac-d7931b862da3" alt="Ice Barrage">
+
