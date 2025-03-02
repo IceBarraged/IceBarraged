@@ -1,7 +1,7 @@
 
 <p align="center">
  <img width="20%" src="https://github.com/user-attachments/assets/82720459-f487-457d-8e76-f6fe38cb1ec5" alt="Login Flame">
- 🧊 $${\huge \color{blue}	Welcome \space to \space my \space profile.}$$ 🧊
+ 🧊 $${\huge \color{lime}	Welcome \space to \space my \space profile.}$$ 🧊
  <img width="20%" src="https://github.com/user-attachments/assets/82720459-f487-457d-8e76-f6fe38cb1ec5" alt="Login Flame">
 </p>
  
